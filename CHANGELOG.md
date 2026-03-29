@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-03-29
+
 ### Added
 - Comprehensive README with full documentation
 - Equipment comparison feature with up to 4 items
@@ -32,6 +34,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Equipment comparison TODO implementation
 - Error boundary integration in main app
+
+### Security
+- Bumped tar from 7.5.7 to 7.5.9 (symlink path traversal fix)
 
 ## [0.1.0] - 2026-01-26
 
